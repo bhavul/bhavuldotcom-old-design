@@ -276,7 +276,7 @@ position: relative;
     border: 0;
     padding: 0;
     cursor: pointer;
-    height: 22px;
+    height: 23px;
 	width: 64px;
     color: #fff;
     text-transform: uppercase;
@@ -284,6 +284,7 @@ position: relative;
     border-radius: 0 3px 3px 0;     
     text-shadow: 0 -1px 0 rgba(0, 0 ,0, .3);
     right:1%;
+    top:1px;
 }  
    
 .form-wrapper button:hover{    
